@@ -1,0 +1,10 @@
+name: sound
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - spyder
+  - playsound
+  - python==3.9.18
+  - obspy=1.3.0
+  - librosa
