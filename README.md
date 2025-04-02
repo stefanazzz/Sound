@@ -1,2 +1,2 @@
 # Sound
-Convert seismic signal to audble sound
+Convert seismic signal to audible sound
