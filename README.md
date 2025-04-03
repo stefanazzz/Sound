@@ -16,5 +16,6 @@ Convert seismic signal to audible sound
 - [▶️ compressed_test5.mp3](https://stefanazzz.github.io/Audio/compressed_test5.mp3)
 - [▶️ compressed_test5b.mp3](https://stefanazzz.github.io/Audio/compressed_test5b.mp3)
 - [▶️ compressed_test_nn4.mp3](https://stefanazzz.github.io/Audio/compressed_test_nn4.mp3)
-- [▶️ compressed_test_nn4b.mp3](https://stefanazzz.github.io/Audio/compressed_test_nn4b.mp3)
-
+- [▶️ compressed_test_nn4b](https://stefanazzz.github.io/Audio/compressed_test_nn4b.mp3)
+ 
+- [▶️ compressed_test_nn4b](./Audio/compressed_test_nn4b.mp3)
