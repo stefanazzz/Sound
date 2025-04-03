@@ -2,7 +2,7 @@
 Convert seismic signal to audible sound
 ## Audio Files examples:
 Some are recodrings of earthquakes where the initial arrival is a short impulse, while the later surface waves train is heard as a longer sound with a rising pitch. 
-Other examples are background seismic noise in different contexts, including anthropic noise close to a harbor, or possible whistles and tremors close to volcanic fumarolles at Nysiro. Guess which is which. 
+Other examples are background seismic noise in different contexts, including anthropic noise close to a harbor, or possible whistles and tremors close to volcanic fumarolles at Nysiros. Guess which is which. 
 
 - [▶️ compressed_TohokuSurfStretched.mp3](https://stefanazzz.github.io/Audio/compressed_TohokuSurfStretched.mp3)
 - [▶️ compressed_TohokuSurfStretched2.mp3](https://stefanazzz.github.io/Audio/compressed_TohokuSurfStretched2.mp3)
